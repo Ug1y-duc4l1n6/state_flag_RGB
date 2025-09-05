@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: #f8f8f8; color: #222; }
+h1 { text-align: center; }
+#plot { margin: 0 auto; }
+#clusters { display: flex; flex-wrap: wrap; justify-content: center; margin-top: 2em; }
+.cluster-group { background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #ccc; margin: 1em; padding: 1em; min-width: 220px; }
+.cluster-title { font-weight: bold; margin-bottom: 0.5em; }
+.state-item { display: flex; align-items: center; margin-bottom: 0.5em; }
+.state-thumb { width: 32px; height: 20px; object-fit: cover; margin-right: 0.5em; border: 1px solid #ccc; border-radius: 3px; }
